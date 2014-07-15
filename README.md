@@ -1,3 +1,15 @@
+    ____  _____ ____  ____  _____ ____    _  _____ _____ ____
+    |  _ \| ____|  _ \|  _ \| ____/ ___|  / \|_   _| ____|  _ \
+    | | | |  _| | |_) | |_) |  _|| |     / _ \ | | |  _| | | | |
+    | |_| | |___|  __/|  _ <| |__| |___ / ___ \| | | |___| |_| |
+    |____/|_____|_|   |_| \_\_____\____/_/   \_\_| |_____|____/
+
+     ____   ___    _   _  ___ _____   _   _ ____  _____
+    |  _ \ / _ \  | \ | |/ _ \_   _| | | | / ___|| ____|
+    | | | | | | | |  \| | | | || |   | | | \___ \|  _|
+    | |_| | |_| | | |\  | |_| || |   | |_| |___) | |___
+    |____/ \___/  |_| \_|\___/ |_|    \___/|____/|_____|
+
 # shoulda-matchers [![Build Status](https://secure.travis-ci.org/thoughtbot/shoulda-matchers.png?branch=master)](http://travis-ci.org/thoughtbot/shoulda-matchers)
 
 [Official Documentation](http://rubydoc.info/github/thoughtbot/shoulda-matchers/master/frames)
